@@ -1,0 +1,1 @@
+conn = sqlite3.connect(database=r'stock.db')
